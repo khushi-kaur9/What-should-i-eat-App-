@@ -1,0 +1,6 @@
+{
+  "name": "What Should I Eat?",
+  "description": "Smart recipe discovery and pantry decision engine that finds the best recipes you can make from the ingredients you already have.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
